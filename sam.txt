@@ -5,3 +5,5 @@ git add "file or folder name"
 git commit -m "message"
 git remote add orgin "github repository url"
 git push -u orgin "branchname"
+
+git command edited
